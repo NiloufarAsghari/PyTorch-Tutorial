@@ -1,5 +1,5 @@
-# Pytorch Tutorial - Deep Learning with Pytorch
-<p><b>Pytorch Zero to Hero!</b>
+# PyTorch Tutorial - Deep Learning with PyTorch
+<p><b>PyTorch Zero to Hero!</b>
 <br>Let's Learn together!</p>
 
 
