@@ -1,9 +1,8 @@
-# Pytorch-Tutorial
-Deep Learning with Pytorch
-Pytorch Zero to Hero!
-Lets Learn together!
-Thanks : Python Engineer, Please Subscribe to his channel
-and give a STAR to this repository!
+# Pytorch Tutorial - Deep Learning with Pytorch
+<p><b>Pytorch Zero to Hero!</b>
+<br>Let's Learn together!</p>
 
 
-Main Refrence :https://www.youtube.com/watch?v=c36lUUr864M&amp;list=PLicqOUc9dtKYPf3jmgCcaoW7e4NeLE0tI
+
+<p>Main Refrence :<a href="https://www.youtube.com/watch?v=c36lUUr864M&amp;list=PLicqOUc9dtKYPf3jmgCcaoW7e4NeLE0tI">Python Engineer</a></p>
+<p>Please don't forget to give a STAR :star: to this repository!</p>
